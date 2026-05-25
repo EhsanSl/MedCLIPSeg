@@ -127,11 +127,13 @@ Please refer to the [RUN.md](assets/RUN.md) for detailed instructions on trainin
 ## Citation
 If you use our work, please consider citing:
 ```bibtex
-@article{koleilat2026medclipseg,
-  title={MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation},
-  author={Koleilat, Taha and Asgariandehkordi, Hojat and Manzari, Omid Nejati and Barile, Berardino and Xiao, Yiming and Rivaz, Hassan},
-  journal={arXiv preprint arXiv:2602.20423},
-  year={2026}
+@inproceedings{koleilat2026medclipseg,
+    author    = {Koleilat, Taha and Asgariandehkordi, Hojat and Nejatimanzari, Omid and Barile, Berardino and Xiao, Yiming and Rivaz, Hassan},
+    title     = {MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {1406-1417}
 }
 ```
 
